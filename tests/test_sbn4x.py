@@ -7,7 +7,7 @@
 #
 # Generator:     sensirion-driver-generator 1.3.4
 # Product:       sbn4x
-# Model-Version: 1.0.0
+# Model-Version: 1.0.1
 #
 
 import pytest
